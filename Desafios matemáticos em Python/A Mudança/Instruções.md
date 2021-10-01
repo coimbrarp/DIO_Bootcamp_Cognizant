@@ -1,6 +1,6 @@
 ## Desafio
 
-<p align="center"><img src="./.png" width="500"></p>
+<p align="center"><img src="./a_mudanca.png" width="500"></p>
 
 Hermione está criando um novo Vira Tempo especialmente para programadores. É impressionante as vantagens que ele oferece e o conforto pra codar que ele tem. O artefato ainda 
 está em desenvolvimento e ele prometeu consertar os bugs e colocar uns apetrechos melhores e, em troca, pediu um sistema simples para o modo Standy By. O problema é que o 
