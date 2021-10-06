@@ -17,8 +17,8 @@ Imprima uma linha contendo o número da pessoa que Theon deve dizer ser seu algo
 ## Exemplos
 Exemplos de Entrada | Exemplos de Saída
 ----- | -----
-3 | 2
+3     | 2
 8 0 7 |  
-  |  
-2 | 1
-1 1 |  
+---   | --- 
+2     | 1
+1 1   |  
