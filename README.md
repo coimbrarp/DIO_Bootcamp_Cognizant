@@ -1,7 +1,7 @@
 # DIO - Bootcamp Cognizant Cloud Data Engineer
 Códigos dos desafios do Bootcamp Cognizant Cloud Data Engineer da Digital Innovation One
 
-<p align="center"><img src="./dio_bootcamp_cognizant.png" width="500"></p>
+<p align="center"><img src="./dio_bootcamp_cognizant.png" width="400"></p>
 
 ## Resolvendo algoritmos com Python
 - 1 - Fibonacci Fácil
